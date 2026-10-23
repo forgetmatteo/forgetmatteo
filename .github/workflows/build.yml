@@ -1,0 +1,43 @@
+name: Profile card
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      BIRTHDATE: ${{ secrets.BIRTHDATE }}
+    steps:
+      - name: Skip until both secrets are set
+        if: env.ACCESS_TOKEN == '' || env.BIRTHDATE == ''
+        run: echo "::warning::Add the ACCESS_TOKEN and BIRTHDATE secrets to refresh the card."
+
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        if: env.ACCESS_TOKEN != '' && env.BIRTHDATE != ''
+
+      - name: Render cards
+        if: env.ACCESS_TOKEN != '' && env.BIRTHDATE != ''
+        run: python3 build.py
+
+      - name: Commit if anything changed
+        if: env.ACCESS_TOKEN != '' && env.BIRTHDATE != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg cache/stats.json
+          git diff --cached --quiet || git commit -m "Update profile card"
+          git push

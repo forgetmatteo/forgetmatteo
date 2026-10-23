@@ -1,0 +1,40 @@
+{
+  "login": "forgetmatteo",
+  "title": "@forgetmatteo",
+  "sections": [
+    {
+      "rows": [
+        ["OS", "macOS, iOS"],
+        ["Uptime", "{uptime}"],
+        ["Host", "Ramify"],
+        ["Kernel", "Product Manager"],
+        ["Shell", "EDHEC Business School"],
+        ["Previously", "Hermès"],
+        ["IDE", "Cursor, Claude Code, Codex"],
+        null,
+        ["Languages.Programming", "TypeScript, JavaScript, Python, SQL"],
+        ["Languages.Markup", "HTML, CSS, Markdown"],
+        ["Languages.Real", "French, English, Polish, Spanish"],
+        null,
+        ["Stack.Web", "Next.js, React, Tailwind CSS, Motion"],
+        ["Stack.Data", "Supabase, Postgres, Upstash Redis"],
+        ["Stack.Cloud", "Vercel, Stripe, Resend"],
+        ["Stack.Testing", "Playwright, Vitest, Storybook, Lighthouse"]
+      ]
+    },
+    {
+      "title": "Projects",
+      "rows": [
+        ["LinkedUp", "linkedup.studio"],
+        ["Website", "matteoforget.com"]
+      ]
+    },
+    {
+      "title": "Contact",
+      "rows": [
+        ["Email", "contact@matteoforget.com"],
+        ["LinkedIn", "linkedin.com/in/forgetmatteo"]
+      ]
+    }
+  ]
+}

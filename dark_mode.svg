@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="1071px" height="610px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.add {fill: #3fb950;}
+.del {fill: #f85149;}
+.dots {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1071px" height="610px" fill="#161b22" rx="15"/>
+<text x="15" y="26" font-size="11px" fill="#c9d1d9"></text>
+<text x="15" y="40" font-size="11px" fill="#c9d1d9"></text>
+<text x="15" y="54" font-size="11px" fill="#c9d1d9">                       /_&lt;xvy&lt;\yCuVSZS3hq]7\</text>
+<text x="15" y="68" font-size="11px" fill="#c9d1d9">               ,&quot;uuoUGSd@@@UUUUdGdUUQ@@QQOUUS2\</text>
+<text x="15" y="82" font-size="11px" fill="#c9d1d9">            ,CSdSdUdQ@@@@@QQUUQOOQUQQd@@@8QQUUS2&lt;; ~</text>
+<text x="15" y="96" font-size="11px" fill="#c9d1d9">         ,&gt;wUUUQ@@@Q@@@@@U@@@QUUUQ@OQ@@@@@@@8U9SCS3h3</text>
+<text x="15" y="110" font-size="11px" fill="#c9d1d9">       ,u&amp;d@@@QQ@Q@@@@QQ@QUUUUUSC7?7XOUO@@QQ@QdUQU9CSS</text>
+<text x="15" y="124" font-size="11px" fill="#c9d1d9">      \G@@QQ@Q@@@QQ@US77?\\&lt;&lt;~^      &quot;?&gt;UQ@@@@@@@QS9US/</text>
+<text x="15" y="138" font-size="11px" fill="#c9d1d9">     cYS@@@@@@@@@@Rc^                  ^{GdQ@Q88@dUdS2&quot;</text>
+<text x="15" y="152" font-size="11px" fill="#c9d1d9">    ?/GSd@@@@@@@@d7                     &lt;cYU@@@@@@@@UcS</text>
+<text x="15" y="166" font-size="11px" fill="#c9d1d9">    ~FqQ@@@@@@@@S7^                        &quot;?U@@@@@d3\,</text>
+<text x="15" y="180" font-size="11px" fill="#c9d1d9">    &lt;SdQ@@@@@@DC^                            ^}@@@@@G/\</text>
+<text x="15" y="194" font-size="11px" fill="#c9d1d9">    ~h8@@@Q@@@D&gt;~!~                           (@@@@@D(C</text>
+<text x="15" y="208" font-size="11px" fill="#c9d1d9">     SUQ@@@@@@UuSSSuu/             !^!\!/!    ?@@@@@S(}</text>
+<text x="15" y="222" font-size="11px" fill="#c9d1d9">      ?9@@@@@@@@@ROU99USy/\\\;;iq&amp;UUSS8QQ@Q&amp;qod@@@@DS?</text>
+<text x="15" y="236" font-size="11px" fill="#c9d1d9">       &quot;2@@@@S}xc(((jSSUd@@@@@@@@C?((\^!!\/3@@@@DQU7</text>
+<text x="15" y="250" font-size="11px" fill="#c9d1d9">        3SQ@@CSSU&amp;d@QUSUUQ@S?3@@C(cuSQQUSC(\8@@Df]</text>
+<text x="15" y="264" font-size="11px" fill="#c9d1d9">        ddOd@C?}S77?l(^(l@D\ !9@k^^/l2}f??\\@@C7\C</text>
+<text x="15" y="278" font-size="11px" fill="#c9d1d9">        9SSUOUc^^      \qR\   ^@@L        \QQ\  J</text>
+<text x="15" y="292" font-size="11px" fill="#c9d1d9">        /hSSL7UUSyuvuSGdG(     ^UhOnxc/ucU@X&quot;   [</text>
+<text x="15" y="306" font-size="11px" fill="#c9d1d9">         k?SS(\(?7T77?!\(^      ^^(77fff?\      \</text>
+<text x="15" y="320" font-size="11px" fill="#c9d1d9">         3(SGl(/\^    !cSSc/  :cc               (</text>
+<text x="15" y="334" font-size="11px" fill="#c9d1d9">          ?Yk\x(\^     7U@@Ux//l//            /&lt;</text>
+<text x="15" y="348" font-size="11px" fill="#c9d1d9">            J/?c\!   !!\/7?x\\~~&lt;,           j</text>
+<text x="15" y="362" font-size="11px" fill="#c9d1d9">             C/?(\!!/uSUUS}xccj\\cSS&lt;       ~(</text>
+<text x="15" y="376" font-size="11px" fill="#c9d1d9">             3/(c(/ ^\?xuu}}}}l(!  ^        f</text>
+<text x="15" y="390" font-size="11px" fill="#c9d1d9">              S/?c(!    ^\ll}(/            f</text>
+<text x="15" y="404" font-size="11px" fill="#c9d1d9">               S/7c/!                    \f</text>
+<text x="15" y="418" font-size="11px" fill="#c9d1d9">                bx}SL(/!            \/!! S</text>
+<text x="15" y="432" font-size="11px" fill="#c9d1d9">                bSUUQQUSu(////////xuSc^  }</text>
+<text x="15" y="446" font-size="11px" fill="#c9d1d9">               ^hSUQQ@@@@@@@Q@Q@@@DSl^   }</text>
+<text x="15" y="460" font-size="11px" fill="#c9d1d9">              cS}SUOQQQQ@@@@@@DOS}?^     ^^\</text>
+<text x="15" y="474" font-size="11px" fill="#c9d1d9">              (}cSSUdQUUUUUUSC?(!^         ?</text>
+<text x="15" y="488" font-size="11px" fill="#c9d1d9">              7Sx}SSSSSSSSC}?\\^           (</text>
+<text x="15" y="502" font-size="11px" fill="#c9d1d9">               3S77YY777Yc(/!^           ,(</text>
+<text x="15" y="516" font-size="11px" fill="#c9d1d9">                ?Syc((/\((\!^          ,/</text>
+<text x="15" y="530" font-size="11px" fill="#c9d1d9">                   ?nuc^^^!!      ,,~^^</text>
+<text x="15" y="544" font-size="11px" fill="#c9d1d9">                        ^&quot;&quot;&quot;&quot;&quot;&quot;&quot;^</text>
+<text x="425" y="30" fill="#c9d1d9">@forgetmatteo ——————————————————————————————————————————————————</text>
+<text x="425" y="50" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ............................................... </tspan><tspan class="value">macOS, iOS</tspan></text>
+<text x="425" y="70" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">20 years, 9 months, 20 days</tspan></text>
+<text x="425" y="90" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ................................................. </tspan><tspan class="value">Ramify</tspan></text>
+<text x="425" y="110" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ...................................... </tspan><tspan class="value">Product Manager</tspan></text>
+<text x="425" y="130" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Shell</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">EDHEC Business School</tspan></text>
+<text x="425" y="150" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Previously</tspan>:<tspan class="dots"> ........................................... </tspan><tspan class="value">Hermès</tspan></text>
+<text x="425" y="170" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">Cursor, Claude Code, Codex</tspan></text>
+<text x="425" y="190" fill="#c9d1d9"><tspan class="dots">. </tspan></text>
+<text x="425" y="210" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="dots"> ... </tspan><tspan class="value">TypeScript, JavaScript, Python, SQL</tspan></text>
+<text x="425" y="230" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan>:<tspan class="dots"> ........................ </tspan><tspan class="value">HTML, CSS, Markdown</tspan></text>
+<text x="425" y="250" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">French, English, Polish, Spanish</tspan></text>
+<text x="425" y="270" fill="#c9d1d9"><tspan class="dots">. </tspan></text>
+<text x="425" y="290" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Web</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">Next.js, React, Tailwind CSS, Motion</tspan></text>
+<text x="425" y="310" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Data</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">Supabase, Postgres, Upstash Redis</tspan></text>
+<text x="425" y="330" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">Vercel, Stripe, Resend</tspan></text>
+<text x="425" y="350" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Testing</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">Playwright, Vitest, Storybook, Lighthouse</tspan></text>
+<text x="425" y="370" fill="#c9d1d9"></text>
+<text x="425" y="390" fill="#c9d1d9">- Projects —————————————————————————————————————————————————————</text>
+<text x="425" y="410" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">LinkedUp</tspan>:<tspan class="dots"> .................................... </tspan><tspan class="value">linkedup.studio</tspan></text>
+<text x="425" y="430" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Website</tspan>:<tspan class="dots"> .................................... </tspan><tspan class="value">matteoforget.com</tspan></text>
+<text x="425" y="450" fill="#c9d1d9"></text>
+<text x="425" y="470" fill="#c9d1d9">- Contact ——————————————————————————————————————————————————————</text>
+<text x="425" y="490" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Email</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">contact@matteoforget.com</tspan></text>
+<text x="425" y="510" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dots"> ....................... </tspan><tspan class="value">linkedin.com/in/forgetmatteo</tspan></text>
+<text x="425" y="530" fill="#c9d1d9"></text>
+<text x="425" y="550" fill="#c9d1d9">- GitHub Stats —————————————————————————————————————————————————</text>
+<text x="425" y="570" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">4</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">4</tspan>} | <tspan class="key">Commits</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">170</tspan></text>
+<text x="425" y="590" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">33,547</tspan> ( <tspan class="add">50,435++</tspan>, <tspan class="del">16,888--</tspan> )</text>
+</svg>

@@ -1,16 +1,13 @@
-## Hi there 👋
+<a href="https://matteoforget.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forgetmatteo/forgetmatteo/main/dark_mode.svg">
+    <img alt="Mattéo Forget: founder of LinkedUp and Product Manager at Ramify." src="https://raw.githubusercontent.com/forgetmatteo/forgetmatteo/main/light_mode.svg">
+  </picture>
+</a>
 
-<!--
-**forgetmatteo/forgetmatteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://matteoforget.com">matteoforget.com</a> ·
+  <a href="https://www.linkedup.studio">LinkedUp</a> ·
+  <a href="https://www.linkedin.com/in/forgetmatteo/">LinkedIn</a> ·
+  <a href="mailto:contact@matteoforget.com">contact@matteoforget.com</a>
+</p>
