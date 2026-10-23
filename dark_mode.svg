@@ -75,6 +75,6 @@ text, tspan {white-space: pre;}
 <text x="425" y="510" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dots"> ....................... </tspan><tspan class="value">linkedin.com/in/forgetmatteo</tspan></text>
 <text x="425" y="530" fill="#c9d1d9"></text>
 <text x="425" y="550" fill="#c9d1d9">- GitHub Stats —————————————————————————————————————————————————</text>
-<text x="425" y="570" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">4</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">4</tspan>} | <tspan class="key">Commits</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">170</tspan></text>
-<text x="425" y="590" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">33,547</tspan> ( <tspan class="add">50,435++</tspan>, <tspan class="del">16,888--</tspan> )</text>
+<text x="425" y="570" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">4</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">4</tspan>} | <tspan class="key">Commits</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">172</tspan></text>
+<text x="425" y="590" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">34,232</tspan> ( <tspan class="add">51,142++</tspan>, <tspan class="del">16,910--</tspan> )</text>
 </svg>
