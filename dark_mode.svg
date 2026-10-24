@@ -50,7 +50,7 @@ text, tspan {white-space: pre;}
 <text x="15" y="544" font-size="11px" fill="#c9d1d9">                        ^&quot;&quot;&quot;&quot;&quot;&quot;&quot;^</text>
 <text x="425" y="30" fill="#c9d1d9">@forgetmatteo ——————————————————————————————————————————————————</text>
 <text x="425" y="50" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ............................................... </tspan><tspan class="value">macOS, iOS</tspan></text>
-<text x="425" y="70" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">20 years, 9 months, 20 days</tspan></text>
+<text x="425" y="70" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">20 years, 9 months, 21 days</tspan></text>
 <text x="425" y="90" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ................................................. </tspan><tspan class="value">Ramify</tspan></text>
 <text x="425" y="110" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ...................................... </tspan><tspan class="value">Product Manager</tspan></text>
 <text x="425" y="130" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Shell</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">EDHEC Business School</tspan></text>
@@ -75,6 +75,6 @@ text, tspan {white-space: pre;}
 <text x="425" y="510" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dots"> ....................... </tspan><tspan class="value">linkedin.com/in/forgetmatteo</tspan></text>
 <text x="425" y="530" fill="#c9d1d9"></text>
 <text x="425" y="550" fill="#c9d1d9">- GitHub Stats —————————————————————————————————————————————————</text>
-<text x="425" y="570" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">4</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">4</tspan>} | <tspan class="key">Commits</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">172</tspan></text>
-<text x="425" y="590" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">34,232</tspan> ( <tspan class="add">51,142++</tspan>, <tspan class="del">16,910--</tspan> )</text>
+<text x="425" y="570" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">4</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">4</tspan>} | <tspan class="key">Commits</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">173</tspan></text>
+<text x="425" y="590" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">34,234</tspan> ( <tspan class="add">51,182++</tspan>, <tspan class="del">16,948--</tspan> )</text>
 </svg>
