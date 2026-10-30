@@ -50,7 +50,7 @@ text, tspan {white-space: pre;}
 <text x="15" y="544" font-size="11px" fill="#c9d1d9">                        ^&quot;&quot;&quot;&quot;&quot;&quot;&quot;^</text>
 <text x="425" y="30" fill="#c9d1d9">@forgetmatteo ——————————————————————————————————————————————————</text>
 <text x="425" y="50" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ............................................... </tspan><tspan class="value">macOS, iOS</tspan></text>
-<text x="425" y="70" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">20 years, 9 months, 26 days</tspan></text>
+<text x="425" y="70" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">20 years, 9 months, 27 days</tspan></text>
 <text x="425" y="90" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ................................................. </tspan><tspan class="value">Ramify</tspan></text>
 <text x="425" y="110" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ...................................... </tspan><tspan class="value">Product Manager</tspan></text>
 <text x="425" y="130" fill="#c9d1d9"><tspan class="dots">. </tspan><tspan class="key">Shell</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">EDHEC Business School</tspan></text>
